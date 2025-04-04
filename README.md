@@ -16,3 +16,6 @@ red80HG.html  红色80HG   https://zjxsz.github.io/x/red80HG.html
 
 greenH.html   绿色图片H   https://zjxsz.github.io/x/greenH.html
 
+greenG.html   绿色图片G   https://zjxsz.github.io/x/greenG.html
+
+
